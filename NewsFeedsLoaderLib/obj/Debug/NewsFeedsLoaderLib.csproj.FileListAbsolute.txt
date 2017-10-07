@@ -1,0 +1,10 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeedsLoaderLib\bin\Debug\NewsFeedsLoaderLib.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeedsLoaderLib\bin\Debug\NewsFeedsLoaderLib.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeedsLoaderLib\bin\Debug\NewsFeedsLoaderLib.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeedsLoaderLib\bin\Debug\NewsFeedsLoaderLib.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.csprojResolveAssemblyReference.cache
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeedsLoaderLib\obj\Debug\NewsFeedsLoaderLib.pdb

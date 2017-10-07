@@ -1,0 +1,81 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\csc.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\vbc.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.dll.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeeds.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Helpers.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Mvc.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Optimization.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeeds.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Helpers.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Mvc.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\System.Web.Optimization.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeedsLoaderLib.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds.Tests\bin\Debug\NewsFeedsLoaderLib.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.csprojResolveAssemblyReference.cache
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\obj\Debug\NewsFeeds.Tests.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\csc.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\vbc.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.dll.config
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeeds.Tests.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeeds.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Razor.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeedsLoaderLib.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeeds.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Razor.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds.Tests\bin\Debug\NewsFeedsLoaderLib.pdb
