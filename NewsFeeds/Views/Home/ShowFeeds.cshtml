@@ -1,0 +1,69 @@
+﻿@model IEnumerable<NewsFeedsLoaderLib.RssItem>
+
+
+<h2>News Feeds</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Title", "ShowFeeds", new { ViewBag.Category, order = "Title", isDesc=ViewBag.order=="Title"&&!ViewBag.isDesc })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Link)
+        </th>
+    
+        <th>
+            @Html.ActionLink("Publish Date", "ShowFeeds", new {ViewBag.Category, order = "PublishDate", isDesc = ViewBag.order == "PublishDate" && !ViewBag.isDesc })
+        </th>
+        
+        <th>Share</th>
+        <th>Download</th>
+
+    </tr>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            <a href=@item.Link>
+                @Html.DisplayFor(modelItem => item.Link)
+            </a>
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.PublishDate)
+        </td>
+
+        <td>
+
+            <a href="https://www.facebook.com/sharer/sharer.php?
+                u=@Url.Encode(@item.Link)&t=@Url.Encode(@item.Title)"
+               target="_blank">
+                facebook
+            </a>
+            <a href="https://twitter.com/intent/tweet?
+                url=@Url.Encode(Request.Url.ToString())&text=@Url.Encode(@item.Title)"
+               target="_blank" title="Tweet">
+                Twitter
+            </a>
+            <a href="https://plus.google.com/share?
+                url=@Url.Encode(Request.Url.ToString())"
+               target="_blank" title="Share on Google+">
+                Google+
+            </a>
+        </td>
+        <td>
+            @Html.ActionLink("download", "DownloadFile", new {URL = @item.Link})
+        </td>
+    </tr>
+}
+
+</table>

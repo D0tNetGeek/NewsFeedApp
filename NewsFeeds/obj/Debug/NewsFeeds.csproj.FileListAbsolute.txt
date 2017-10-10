@@ -1,0 +1,84 @@
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\csc.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\System.Collections.Immutable.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\vbc.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\VBCSCompiler.exe
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\roslyn\VBCSCompiler.exe.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\NewsFeeds.dll.config
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\NewsFeeds.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\NewsFeeds.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Antlr3.Runtime.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Microsoft.Web.Infrastructure.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Newtonsoft.Json.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Helpers.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Mvc.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Optimization.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.Deployment.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.Razor.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\WebGrease.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Helpers.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Mvc.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Optimization.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.Deployment.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\System.Web.WebPages.Razor.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Antlr3.Runtime.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\Newtonsoft.Json.xml
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\obj\Debug\NewsFeeds.csprojResolveAssemblyReference.cache
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\obj\Debug\NewsFeeds.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\obj\Debug\NewsFeeds.pdb
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\NewsFeedsLoaderLib.dll
+C:\D\2-2-16\Work and learning\Work\freelancer\england\NewsFeeds\NewsFeeds\bin\NewsFeedsLoaderLib.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\csc.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\System.Collections.Immutable.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\vbc.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\VBCSCompiler.exe
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\roslyn\VBCSCompiler.exe.config
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\NewsFeeds.dll.config
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\NewsFeeds.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\NewsFeeds.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Antlr3.Runtime.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\NewsFeedsLoaderLib.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Newtonsoft.Json.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Helpers.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Mvc.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Optimization.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Razor.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.Razor.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\WebGrease.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\NewsFeedsLoaderLib.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Helpers.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Mvc.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Optimization.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.Razor.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\System.Web.WebPages.Razor.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Antlr3.Runtime.pdb
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\bin\Newtonsoft.Json.xml
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\obj\Debug\NewsFeeds.csprojResolveAssemblyReference.cache
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\obj\Debug\NewsFeeds.dll
+C:\Work\Docs\ChelseaApp\NewsFeeds_1\NewsFeeds\obj\Debug\NewsFeeds.pdb
